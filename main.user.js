@@ -5,8 +5,10 @@
 // @match       https://carscommerce.atlassian.net/servicedesk/customer/portal/61/*
 // @match       https://carscommerce.atlassian.net/jira/servicedesk/projects/CAB/queues/issue/*
 // @grant       none
-// @version     1.0.1
+// @version     1.0.2
 // @author      Jeff Puckett
+// @homepageURL https://github.com/jpuckett-di/jira-cab-redirect
+// @downloadURL https://raw.githubusercontent.com/jpuckett-di/jira-cab-redirect/refs/heads/main/main.user.js
 // ==/UserScript==
 const find = [
   "/servicedesk/customer/portal/41",

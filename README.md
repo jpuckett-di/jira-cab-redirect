@@ -1,5 +1,5 @@
-# Jira CAB Redirect
+# Jira ServiceDesk Redirect
 
-Redirects various CAB URIs to the canonical `/browse`
+Redirects various Jira ServiceDesk URIs to the canonical `/browse`
 
 Built for https://violentmonkey.github.io
